@@ -43,147 +43,14 @@
 
     <!-- Body main wrapper start -->
     <div class="wrapper">
-        <!-- Start Header Style -->
-        <div id="header" class="htc-header">
-            <!-- Start Header Top -->
-            <div class="htc__header__top bg__cat--1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
-                            <ul class="heaher__top__left">
-                                <li><i class="fa fa-clock-o"></i>7.30 AM  -  9.30 PM</li>
-                                <li><a href="#"><i class="fa fa-phone"></i>(001)  25465  258  369</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
-                            <div class="header__top__right">
-                                <ul class="login-register">
-                                    <li><a href="login-register.html">LOGIN</a></li>
-                                    <li class="separator">/</li>
-                                    <li><a href="login-register.html">REGISTER</a></li>
-                                </ul>
-                                <div class="heaher__top__btn">
-                                    <a href="#">Buy Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Header Top -->
-            <!-- Start Mainmenu Area -->
-            <div id="sticky-header-with-topbar" class="mainmenu__wrap sticky__header">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-2 col-sm-6 col-xs-7">
-                            <div class="logo">
-                                <a href="index.html">
-                                    <img src="images/logo/sinply-construction.png" alt="logo image">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-8 col-sm-6 col-xs-5">
-                            <nav class="main__menu__nav  hidden-xs hidden-sm">
-                                <ul class="main__menu">
-                                    <li class="drop"><a href="index.html">HOME</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index-2.html">Home 02</a></li>
-                                            <li><a href="index-3.html">Home 03</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">ABOUT</a></li>
-                                    <li><a href="service.html">SERVICES</a></li>
-                                    <li class="drop"><a href="#">pages</a>
-                                        <ul class="dropdown">
-                                            <li><a href="service.html">service</a></li>
-                                            <li><a href="single-service.html">Single service</a></li>
-                                            <li><a href="projects-one.html">projects one</a></li>
-                                            <li><a href="projects-two.html">projects two</a></li>
-                                            <li><a href="projects-three.html">projects three</a></li>
-                                            <li><a href="single-project.html">Single Project</a></li>
-                                            <li><a href="blog.html">BLog</a></li>
-                                            <li><a href="blog-one-column.html">blog one column</a></li>
-                                            <li><a href="blog-two-column.html">blog two column</a></li>
-                                            <li><a href="blog-details.html">blog Details</a></li>
-                                            <li><a href="login-register.html">Log in & Register</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="drop"><a href="#">PROJECTS</a>
-                                        <ul class="dropdown">
-                                            <li><a href="projects-one.html">projects one</a></li>
-                                            <li><a href="projects-two.html">projects two</a></li>
-                                            <li><a href="projects-three.html">projects three</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="drop"><a href="blog.html">BLOG</a>
-                                        <ul class="dropdown">
-                                            <li><a href="blog.html">BLog</a></li>
-                                            <li><a href="blog-one-column.html">blog one column</a></li>
-                                            <li><a href="blog-two-column.html">blog two column</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">CONTACT</a></li>
-                                </ul>
-                            </nav>
-                            <div class="mobile-menu clearfix visible-xs visible-sm">
-                                <nav id="mobile_dropdown">
-                                    <ul>
-                                        <li><a href="index.html">Home</a>
-                                            <ul>
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-2.html">Home 02</a></li>
-                                                <li><a href="index-3.html">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">ABOUT</a></li>
-                                        <li><a href="#">PROJECTS</a>
-                                            <ul>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">pages</a>
-                                            <ul>
-                                                <li><a href="service.html">service</a></li>
-                                                <li><a href="single-service.html">Single service</a></li>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                                <li><a href="single-project.html">Single Project</a></li>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
-                                                <li><a href="blog-details.html">blog Details</a></li>
-                                                <li><a href="login-register.html">Log in & Register</a></li>
-                                            </ul>
-                                        </li> 
-                                        <li><a href="blog.html">blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div> 
-                        </div>
-                        <div class="col-md-2 col-sm-6 hidden-xs">
-                            <div class="htc__header__search">
-                                <input type="text" placeholder="SEARCH">
-                                <a href="#"><i class="fa fa-search"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mobile-menu-area"></div>
-                </div>
-            </div>
-            <!-- End Mainmenu Area -->
-        </div>
-        <!-- End Header Style -->
+ 
+        <!-- start header  -->
+        <?php
+
+        include('header.php')
+        ?>
+        <!-- End header -->
+
         <!-- Start Slider Area -->
         <div class="slider__container">
             <div class="slider__activation__wrap owl-carousel owl-theme">
@@ -211,8 +78,8 @@
                         <div class="row">
                             <div class="col-md-12 col-lg-12">
                                 <div class="slider__inner">
-                                    <h4>SCIENCE 1953</h4>
-                                    <h1>WE BUILD THE TRUST</h1>
+                                    <h4>DEPUIS 2019</h4>
+                                    <h1>NOUS CONSTRUISONS LA CONFIANCE</h1>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment</p>
                                     <div class="slider__btn">
                                         <a class="htc__btn" href="contact.html">CONTACT US</a>
@@ -240,7 +107,7 @@
                                     </a>
                                     <div class="service__hover">
                                         <div class="service__action">
-                                            <a href="single-service.html">DETAILS</a>
+                                            <a href="single-service.html">DÉTAILS</a>
                                         </div>
                                     </div>
                                 </div>
@@ -259,7 +126,7 @@
                                     </a>
                                     <div class="service__hover">
                                         <div class="service__action">
-                                            <a href="single-service.html">DETAILS</a>
+                                            <a href="single-service.html">DÉTAILS</a>
                                         </div>
                                     </div>
                                 </div>
@@ -278,7 +145,7 @@
                                     </a>
                                     <div class="service__hover">
                                         <div class="service__action">
-                                            <a href="single-service.html">DETAILS</a>
+                                            <a href="single-service.html">DÉTAILS</a>
                                         </div>
                                     </div>
                                 </div>
@@ -297,12 +164,12 @@
                                     </a>
                                     <div class="service__hover">
                                         <div class="service__action">
-                                            <a href="single-service.html">DETAILS</a>
+                                            <a href="single-service.html">DÉTAILS</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="service__details">
-                                    <h2><a href="single-service.html">CONCRETE SUPPLY</a></h2>
+                                    <h2><a href="single-service.html">APPROVISIONNEMENT EN BÉTON</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -323,7 +190,7 @@
                                     <img src="images/others/icon-2/1.png" alt="icon images">
                                 </div>
                                 <div class="offer__details">
-                                    <h2><a href="#">TOP RATED</a></h2>
+                                    <h2><a href="#">LES MEILLEURS CLASSÉS</a></h2>
                                     <p>On the other hand, we denounce with righteous indignation quasi architecto beatae vitae dicta</p>
                                 </div>
                             </div>
@@ -332,7 +199,7 @@
                                     <img src="images/others/icon-2/2.png" alt="icon images">
                                 </div>
                                 <div class="offer__details">
-                                    <h2><a href="#">BEST QUALITY</a></h2>
+                                    <h2><a href="#">MEILLEURE QUALITÉ</a></h2>
                                     <p>On the other hand, we denounce with righteous indignation quasi architecto beatae vitae dicta</p>
                                 </div>
                             </div>
@@ -341,7 +208,7 @@
                                     <img src="images/others/icon-2/3.png" alt="icon images">
                                 </div>
                                 <div class="offer__details">
-                                    <h2><a href="#">LOW COST</a></h2>
+                                    <h2><a href="#">FAIBLE COÛT</a></h2>
                                     <p>On the other hand, we denounce with righteous indignation quasi architecto beatae vitae dicta</p>
                                 </div>
                             </div>
@@ -360,18 +227,18 @@
         <section class="htc__counterup__area ptb--50" style="background: rgba(0, 0, 0, 0) url(images/bg/3.jpg) no-repeat scroll center center / cover ;">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-offset-1 col-lg-9 col-sm-12 col-xs-12">
+                    <div class="col-md-12">
                         <div class="htc__counterup__wrap">
                             <!-- Start Single Fact -->
                             <div class="funfact">
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">598</span>
+                                            <span class="count">92</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>PROJECTS</h2>
+                                        <h2>PROJETS</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -381,7 +248,7 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">128</span>
+                                            <span class="count">18</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
@@ -395,11 +262,11 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">339</span>
+                                            <span class="count">39</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>SUCCESS</h2>
+                                        <h2>SUCCÈS</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -409,11 +276,11 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">109</span>
+                                            <span class="count">19</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>AWARDS</h2>
+                                        <h2>RÉCOMPENSES</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -430,7 +297,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="section__title text-center">
-                            <h2 class="title__line">LATEST <span class="text--theme">PROJECTS</span></h2>
+                            <h2 class="title__line">DERNIER <span class="text--theme">PROJETS</span></h2>
                             <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
                         </div>
                     </div>
@@ -446,8 +313,8 @@
                                     </a>
                                     <div class="project__hover__info">
                                         <div class="project__action">
-                                            <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h2><a href="single-project.html">AVANT TRAVAUX DE CONSTRUCTION</a></h2>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -463,8 +330,8 @@
                                     </a>
                                     <div class="project__hover__info">
                                         <div class="project__action">
-                                            <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h2><a href="single-project.html">AVANT TRAVAUX DE CONSTRUCTION</a></h2>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -480,8 +347,8 @@
                                     </a>
                                     <div class="project__hover__info">
                                         <div class="project__action">
-                                            <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h2><a href="single-project.html">AVANT TRAVAUX DE CONSTRUCTION</a></h2>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -498,7 +365,7 @@
                                     <div class="project__hover__info">
                                         <div class="project__action">
                                             <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -514,8 +381,8 @@
                                     </a>
                                     <div class="project__hover__info">
                                         <div class="project__action">
-                                            <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h2><a href="single-project.html">AVANT TRAVAUX DE CONSTRUCTION</a></h2>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -531,8 +398,8 @@
                                     </a>
                                     <div class="project__hover__info">
                                         <div class="project__action">
-                                            <h2><a href="single-project.html">CONSTRUCTION PRE WORK</a></h2>
-                                            <h4>DURATION : 6 MONTH</h4>
+                                            <h2><a href="single-project.html">AVANT TRAVAUX DE CONSTRUCTION</a></h2>
+                                            <h4>DURÉE : 6 MONTH</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -966,105 +833,14 @@
             <!-- End Contact Address -->
         </div>
         <!-- End Google Map Area -->
-        <!-- Start Footer Area -->
-        <footer class="htc__footer__area">
-            <div class="footer__top ptb--130" data--1f2d30__overlay="9.5" style="background: rgba(0, 0, 0, 0) url(images/bg/2.jpg) no-repeat fixed center center / cover ;">
-                <div class="container">
-                    <div class="row">
-                        <div class="htc__footer__wrap clearfix">
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">ABOUT</h2>
-                                    </div>
-                                    <div class="ft__details">
-                                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 xmt-40">
-                                <div class="footer quick__link">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">QUICK LINKS</h2>
-                                    </div>
-                                    <div class="footer__link">
-                                        <ul class="ft__menu">
-                                            <li><a href="service.html">Services</a></li>
-                                            <li><a href="projects-one.html">Projects</a></li>
-                                            <li><a href="#">Features</a></li>
-                                            <li><a href="blog.html">blog</a></li>
-                                        </ul>
-                                        <ul class="ft__menu">
-                                            <li><a href="#">Quote</a></li>
-                                            <li><a href="projects-one.html">Projects</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="#">Features</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 smt-40 xmt-40">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">INSTAGRAM</h2>
-                                    </div>
-                                    <ul class="footer__instagram">
-                                        <li><a href="#"><img src="images/blog/sm-img/1.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/2.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/3.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/4.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/5.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/6.jpg" alt="images"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-2 col-lg-offset-1 col-sm-6 col-xs-12 smt-40 xmt-40">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">INQUARY</h2>
-                                        <div class="footer__link">
-                                            <ul class="ft__menu">
-                                                <li><a href="#">Construction</a></li>
-                                                <li><a href="#">Architecture</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                            </ul>
-                                            <ul class="ft__menu">
-                                                <li><a href="#">Painting</a></li>
-                                                <li><a href="#">Roofing</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                                <li><a href="#">Features</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright bg__theme">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="copyright__inner">
-                                <p>Copyright <a href="#" target="_blank">Devitems</a>
-                                All Rights Reserved 2017</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- End Footer Area -->
+
+        <!-- start header -->
+           <?php
+                include('footer.php')
+           ?>
+        <!-- End footer -->
+
+
     </div>
     <!-- Body main wrapper end -->
 

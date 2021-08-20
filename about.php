@@ -44,145 +44,9 @@
     <!-- Body main wrapper start -->
     <div class="wrapper">
         <!-- Start Header Style -->
-        <div id="header" class="htc-header">
-            <!-- Start Header Top -->
-            <div class="htc__header__top bg__cat--1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
-                            <ul class="heaher__top__left">
-                                <li><i class="fa fa-clock-o"></i>7.30 AM  -  9.30 PM</li>
-                                <li><a href="#"><i class="fa fa-phone"></i>(001)  25465  258  369</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
-                            <div class="header__top__right">
-                                <ul class="login-register">
-                                    <li><a href="login-register.html">LOGIN</a></li>
-                                    <li class="separator">/</li>
-                                    <li><a href="login-register.html">REGISTER</a></li>
-                                </ul>
-                                <div class="heaher__top__btn">
-                                    <a href="#">Buy Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Header Top -->
-            <!-- Start Mainmenu Area -->
-            <div id="sticky-header-with-topbar" class="mainmenu__wrap sticky__header">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-2 col-sm-6 col-xs-7">
-                            <div class="logo">
-                                <a href="index.html">
-                                    <img src="images/logo/sinply-construction.png" alt="logo image">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-8 col-sm-6 col-xs-5">
-                            <nav class="main__menu__nav  hidden-xs hidden-sm">
-                                <ul class="main__menu">
-                                    <li class="drop"><a href="index.html">HOME</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index-2.html">Home 02</a></li>
-                                            <li><a href="index-3.html">Home 03</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">ABOUT</a></li>
-                                    <li><a href="service.html">SERVICES</a></li>
-                                    <li class="drop"><a href="#">pages</a>
-                                        <ul class="dropdown">
-                                            <li><a href="service.html">service</a></li>
-                                            <li><a href="single-service.html">Single service</a></li>
-                                            <li><a href="projects-one.html">projects one</a></li>
-                                            <li><a href="projects-two.html">projects two</a></li>
-                                            <li><a href="projects-three.html">projects three</a></li>
-                                            <li><a href="single-project.html">Single Project</a></li>
-                                            <li><a href="blog.html">BLog</a></li>
-                                            <li><a href="blog-one-column.html">blog one column</a></li>
-                                            <li><a href="blog-two-column.html">blog two column</a></li>
-                                            <li><a href="blog-details.html">blog Details</a></li>
-                                            <li><a href="login-register.html">Log in & Register</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="drop"><a href="#">PROJECTS</a>
-                                        <ul class="dropdown">
-                                            <li><a href="projects-one.html">projects one</a></li>
-                                            <li><a href="projects-two.html">projects two</a></li>
-                                            <li><a href="projects-three.html">projects three</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="drop"><a href="blog.html">BLOG</a>
-                                        <ul class="dropdown">
-                                            <li><a href="blog.html">BLog</a></li>
-                                            <li><a href="blog-one-column.html">blog one column</a></li>
-                                            <li><a href="blog-two-column.html">blog two column</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">CONTACT</a></li>
-                                </ul>
-                            </nav>
-                            <div class="mobile-menu clearfix visible-xs visible-sm">
-                                <nav id="mobile_dropdown">
-                                    <ul>
-                                        <li><a href="index.html">Home</a>
-                                            <ul>
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-2.html">Home 02</a></li>
-                                                <li><a href="index-3.html">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">ABOUT</a></li>
-                                        <li><a href="#">PROJECTS</a>
-                                            <ul>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">pages</a>
-                                            <ul>
-                                                <li><a href="service.html">service</a></li>
-                                                <li><a href="single-service.html">Single service</a></li>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                                <li><a href="single-project.html">Single Project</a></li>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
-                                                <li><a href="blog-details.html">blog Details</a></li>
-                                                <li><a href="login-register.html">Log in & Register</a></li>
-                                            </ul>
-                                        </li> 
-                                        <li><a href="blog.html">blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div> 
-                        </div>
-                        <div class="col-md-2 col-sm-6 hidden-xs">
-                            <div class="htc__header__search">
-                                <input type="text" placeholder="SEARCH">
-                                <a href="#"><i class="fa fa-search"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mobile-menu-area"></div>
-                </div>
-            </div>
-            <!-- End Mainmenu Area -->
-        </div>
+                <?php
+                        include('header.php')
+                ?>
         <!-- End Header Style -->
         <!-- Start Bradcaump area -->
         <div class="ht__bradcaump__area" data--black__overlay="6" style="background: rgba(0, 0, 0, 0) url(images/bg/5.jpg) no-repeat scroll center center / cover ;">
@@ -191,12 +55,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="bradcaump__inner text-center">
-                                <h2 class="bradcaump-title">About Us</h2>
-                                <nav class="bradcaump-inner">
-                                  <a class="breadcrumb-item" href="index.html">Home</a>
-                                  <span class="brd-separetor">-</span>
-                                  <span class="breadcrumb-item active">About Us</span>
-                                </nav>
+                                <h2 class="bradcaump-title">A PROPOS DE NOUS</h2>
                             </div>
                         </div>
                     </div>
@@ -210,12 +69,12 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="htc__bst__construc">
-                            <div class="section__title text-center">
-                                <h2 class="title__line">BEST <span class="text--theme">CONSTRUCTION</span> THEME</h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire consectetur adipiscing</p>
+                            <div class="section__title text-center" style="padding-left: 14%;">
+                                <h2 class="title__line">MEILLEURE <span class="text--theme">ENTREPRISE</span> DE CONSTRUCTION</h2>
+                              <strong>  <p style="font-weight: bold;font-style: italic;">En revanche, nous dénonçons avec une juste indignation et une aversion les hommes si séduits et démoralisés par les charmes du plaisir du moment, si aveuglés par le désir consectetur adipiscing</p>  </strong>
                             </div>
                             <div class="htc__bst__btn text-center mt--30">
-                                <a class="htc__btn" href="contact.html">BUY NOW</a>
+                                <a class="htc__btn" href="contact.html">NOUS CONTACTER</a>
                             </div>
                         </div>
                     </div>
@@ -230,11 +89,11 @@
                     <div class="col-md-9 col-lg-5 col-sm-7 col-xs-12">
                         <div class="htc__mission__container">
                             <div class="single__mission">
-                                <h2>WHAT WE LOVE TO DO</h2>
+                                <h2>CE QUE NOUS AIMONS FAIRE</h2>
                                 <p>On the other hand, we denounce with righteous indignation quasi architecto beatae vitae dicta  beguiled and demoralized by the of pleasure of the moment, so blinded by desire, that they cannot led and demoralized by the charms of pleasure of the moment</p>
                             </div>
                             <div class="single__mission">
-                                <h2>OUR MISSION</h2>
+                                <h2>NOTRE MISSION</h2>
                                 <p>On the other hand, we denounce with righteous indignation quasi architecto beatae vitae dicta  beguiled and demoralized by the of pleasure of the moment, so blinded by desire</p>
                             </div>
                         </div>
@@ -258,7 +117,7 @@
                                 <img src="images/others/icon-2/1.png" alt="icon images">
                             </div>
                             <div class="offer__details">
-                                <h2><a href="#">TOP RATED</a></h2>
+                                <h2><a href="#">MEILLEURS CLASSÉS</a></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are</p>
                             </div>
                         </div>
@@ -269,7 +128,7 @@
                                 <img src="images/others/icon-2/2.png" alt="icon images">
                             </div>
                             <div class="offer__details">
-                                <h2><a href="#">BEST QUALITY</a></h2>
+                                <h2><a href="#">MEILLEURE QUALITÉ</a></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are</p>
                             </div>
                         </div>
@@ -280,7 +139,7 @@
                                 <img src="images/others/icon-2/3.png" alt="icon images">
                             </div>
                             <div class="offer__details">
-                                <h2><a href="#">LOW COST</a></h2>
+                                <h2><a href="#">FAIBLE COÛT</a></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are</p>
                             </div>
                         </div>
@@ -296,7 +155,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="section__title text-center">
-                                <h2 class="title__line">OUR <span class="text--theme">TEAM</span></h2>
+                                <h2 class="title__line">NOTRE <span class="text--theme">EQUIPE</span></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
                             </div>
                         </div>
@@ -420,7 +279,7 @@
                     <div class="col-md-6 col-lg-5 col-sm-12 col-xs-12">
                         <div class="htc__testimonial__wrap">
                             <div class="section__title text-left">
-                                <h2 class="title__line">CLIENTS <span class="text--theme">SAYS</span></h2>
+                                <h2 class="title__line">LES CLIENTS <span class="text--theme">DISENT</span></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasur</p>
                             </div>
                             <div class="testimonial__activation clearfix">
@@ -475,25 +334,25 @@
                     <div class="col-md-6 col-lg-6  col-lg-offset-1 col-sm-12 col-xs-12 smt-40">
                         <div class="reguest__quote">
                             <div class="section__title text-left">
-                                <h2 class="title__line">REQUEST A <span class="text--theme">QUOTE</span></h2>
+                                <h2 class="title__line">DEMANDER UN  <span class="text--theme">DEVIS</span></h2>
                                 <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasur</p>
                             </div>
                             <form id="contact-form" action="https://d29u17ylf1ylz9.cloudfront.net/simply-construction/mail-faq.php" method="post">
                                 <div class="clint__comment__form">
                                     <div class="single__cl__form">
-                                        <input name="name" type="text" placeholder="Name">
+                                        <input name="name" type="text" placeholder="Nom">
                                         <input name="email" type="email" placeholder="Email">
                                     </div>
                                     <div class="single__cl__form">
-                                        <input name="telephone" type="tel" placeholder="Phone">
-                                        <input name="subject" type="text" placeholder="Subject">
+                                        <input name="telephone" type="tel" placeholder="Telephone">
+                                        <input name="subject" type="text" placeholder="Sujet">
                                     </div>
                                     <div class="single__cl__message">
                                         <textarea name="message" placeholder="Massage"></textarea>
                                     </div>
                                     <div class="clint__submit__btn">
                                         <button class="submit htc__btn" type="submit">
-                                            SEND MESSAGE 
+                                        ENVOYER UN MESSAGE
                                         </button>
                                     </div>
                                 </div>
@@ -516,11 +375,11 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">598</span>
+                                            <span class="count">92</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>PROJECTS</h2>
+                                        <h2>PROJETS</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -530,7 +389,7 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">128</span>
+                                            <span class="count">18</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
@@ -544,11 +403,11 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">339</span>
+                                            <span class="count">39</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>SUCCESS</h2>
+                                        <h2>SUCCÈS</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -558,11 +417,11 @@
                                 <div class="fact__details">
                                     <div class="funfact__count__inner">
                                         <div class="fact__count ">
-                                            <span class="count">109</span>
+                                            <span class="count">19</span>
                                         </div>
                                     </div>
                                     <div class="fact__title">
-                                        <h2>AWARDS</h2>
+                                        <h2>RÉCOMPENSES</h2>
                                     </div>
                                 </div>
                             </div> 
@@ -596,7 +455,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="newsletter__wrap">
-                            <h2 class="title__line">SUBSCRIBE <span class="text--theme">NEWSLETTER</span></h2>
+                            <h2 class="title__line">S'ABONNER <span class="text--theme">BULLETIN</span></h2>
                             <h4>Subscribe our newsletter and get latest update</h4>
                             <div class="newsletter__form">
                                 <div class="input__box">
@@ -604,11 +463,11 @@
                                         <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                             <div id="mc_embed_signup_scroll" class="htc__news__inner">
                                                 <div class="news__input">
-                                                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+                                                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse Email" required>
                                                 </div>
                                                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabindex="-1" value=""></div>
-                                                <div class="clearfix subscribe__btn"><input type="submit" value="SUBSCRIBE NOW" name="subscribe" id="mc-embedded-subscribe" class="bst__btn btn--white__color">
+                                                <div class="clearfix subscribe__btn"><input type="submit" value="S'ABONNER" name="subscribe" id="mc-embedded-subscribe" class="bst__btn btn--white__color">
                                                     
                                                 </div>
                                             </div>
@@ -672,103 +531,10 @@
         </div>
         <!-- End Contact Address -->
         <!-- Start Footer Area -->
-        <footer class="htc__footer__area">
-            <div class="footer__top ptb--130" data--1f2d30__overlay="9.5" style="background: rgba(0, 0, 0, 0) url(images/bg/2.jpg) no-repeat fixed center center / cover ;">
-                <div class="container">
-                    <div class="row">
-                        <div class="htc__footer__wrap clearfix">
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">ABOUT</h2>
-                                    </div>
-                                    <div class="ft__details">
-                                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 xmt-40">
-                                <div class="footer quick__link">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">QUICK LINKS</h2>
-                                    </div>
-                                    <div class="footer__link">
-                                        <ul class="ft__menu">
-                                            <li><a href="service.html">Services</a></li>
-                                            <li><a href="projects-one.html">Projects</a></li>
-                                            <li><a href="#">Features</a></li>
-                                            <li><a href="blog.html">blog</a></li>
-                                        </ul>
-                                        <ul class="ft__menu">
-                                            <li><a href="#">Quote</a></li>
-                                            <li><a href="projects-one.html">Projects</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="#">Features</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 smt-40 xmt-40">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">INSTAGRAM</h2>
-                                    </div>
-                                    <ul class="footer__instagram">
-                                        <li><a href="#"><img src="images/blog/sm-img/1.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/2.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/3.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/4.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/5.jpg" alt="images"></a></li>
-                                        <li><a href="#"><img src="images/blog/sm-img/6.jpg" alt="images"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                            <!-- Start Single Footer -->
-                            <div class="col-md-3 col-lg-2 col-lg-offset-1 col-sm-6 col-xs-12 smt-40 xmt-40">
-                                <div class="footer">
-                                    <div class="footer__widget">
-                                        <h2 class="ft__title">INQUARY</h2>
-                                        <div class="footer__link">
-                                            <ul class="ft__menu">
-                                                <li><a href="#">Construction</a></li>
-                                                <li><a href="#">Architecture</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                            </ul>
-                                            <ul class="ft__menu">
-                                                <li><a href="#">Painting</a></li>
-                                                <li><a href="#">Roofing</a></li>
-                                                <li><a href="#">Plambing</a></li>
-                                                <li><a href="#">Features</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single Footer -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright bg__theme">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="copyright__inner">
-                                <p>Copyright <a href="#" target="_blank">Devitems</a>
-                                All Rights Reserved 2017</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+            <?php
+                include('footer.php')
+            ?>
+                       
         <!-- End Footer Area -->
     </div>
     <!-- Body main wrapper end -->
